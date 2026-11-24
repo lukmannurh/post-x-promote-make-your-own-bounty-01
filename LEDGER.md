@@ -18,6 +18,11 @@ Harness: program/v1, bundle-based (not a recording entry).
 
 ## Submission
 
-- Status: NOT submitted (parent submits).
-- Submission ID: (parent fills)
-- Claim code: (parent fills it - ONLY here, never in chat)
+- Status: SUBMITTED 24 Nov 2026 ~14:34 WIB - stage "submitted", server checks 16 pass / 1 skip / 0 fail (entry_link, repo_readme, repo_about, security_audit all pass).
+- Submission ID: 01a20c79-8f88-740a-8106-4d874e6966fc
+- Commit: 1186ec7f739b8b017f94b4b75faa4afa6d8eb4c4
+- Repo: https://github.com/lukmannurh/post-x-promote-make-your-own-bounty-01
+- Bundle: ~/workspace/makefun/transcripts-post-x-promote.tar.gz (sha256 da4d5140abd23dcfab3ebe9b64ae979e92244f808ba58d678a065fe209e03176)
+- Post: https://x.com/Lukewest404/status/2125084488711733296
+- Claim code: AF-MDQ82-76J37-VGD7F-7QQXX (ONLY here, never in chat)
+- Results: after deadline 27 Nov 2026 01:35 WIB; score = replies + reposts + quotes on X.
